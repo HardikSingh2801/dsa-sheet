@@ -1,3 +1,4 @@
+package Array;
 public class maxsubarray {
 
     public static int maxofsub(int arr[]){
